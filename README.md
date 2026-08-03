@@ -1,5 +1,5 @@
 # task2-web
-# AI Student Portfolio 🤖
+# AI Student Portfolio 
 
 ## About The Project
 
@@ -9,7 +9,7 @@ The purpose of this portfolio is to introduce myself, showcase my skills, and pr
 
 ---
 
-## Features ✨
+## Features 
 
 - Modern responsive design
 - About Me section
@@ -21,7 +21,7 @@ The purpose of this portfolio is to introduce myself, showcase my skills, and pr
 
 ---
 
-## Technologies Used 💻
+## Technologies Used 
 
 - HTML5
 - CSS3
@@ -29,7 +29,7 @@ The purpose of this portfolio is to introduce myself, showcase my skills, and pr
 
 ---
 
-## Sections 📌
+## Sections 
 
 ### About Me
 A brief introduction about my background and interests in Artificial Intelligence.
@@ -57,7 +57,7 @@ Examples of projects:
 
 ---
 
-## How To Run 🚀
+## How To Run 
 
 1. Download or clone the repository.
 2. Open the project folder.
@@ -65,4 +65,4 @@ Examples of projects:
 
 ---
 
-## Project Structure 📂
+## Project Structure 
